@@ -1,11 +1,14 @@
-# odin-recipes
+# Odin Recipes
 
-Description
-> This is a short project I made during my time learning HTML with The Odin Project in 2026. This website consists of a main index page which will have links to a few recipes. I know that this website is not looking very pretty (as it is made using only HTML (no css js or framework)) by the time I’ve finished but it’s important to know that the purpose of this project is to build my HTML skills; I will revisit this project in the future maybe to style it up with CSS.
+## Description
+This is a short project built as part of **The Odin Project** foundations curriculum. The website consists of a main index page that links to a collection of recipe pages. 
 
-Up until now, I have learned :
-* Basic HTML boilerplate setup
-* Working with HTML text elements, headings, and lists (ordered and unordered)
-* Embedding images with proper attributes
-* Linking internal & external HTML pages using relative paths
-* Basic Git and GitHub workflow (version control, cloning, committing, and pushing)
+Because this project focuses purely on HTML (without CSS, JavaScript, or frameworks), the visual design is intentionally basic. The primary goal is to master core HTML structure and version control fundamentals, with plans to revisit and style the site using CSS in the future.
+
+## Demonstrated Skills
+By completing this project, I have practiced and demonstrated:
+* Setting up a basic HTML boilerplate architecture
+* Formatting text using headings, paragraphs, and list elements (ordered and unordered)
+* Incorporating images with essential attributes (`src`, `alt`)
+* Linking internal and external web pages using relative file paths
+* Managing version control with Git and GitHub (cloning, committing, pushing)
