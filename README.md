@@ -1,4 +1,5 @@
 # Odin Recipes
+Using [This format chat](https://gemini.google.com/app/872bfec4a4f23120?mode=mi&hl=en-GB)
 
 ## Description
 This is a short project built as part of **The Odin Project** foundations curriculum. The website consists of a main index page that links to a collection of recipe pages. 
